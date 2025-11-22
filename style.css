@@ -1,0 +1,153 @@
+a{
+    text-decoration-line: none;
+    color: #333;
+ }
+ nav div{
+    background-image: url("https://pica.zhimg.com/v2-40f004ef94a76c0bd5e09e64dc5f655c_1440w.jpg?source=172ae18b");
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+ }
+ nav h2{
+    background-color: black;
+    color: white;
+    width: 300px;
+    height: 40px;
+    padding: 5px;
+    letter-spacing: 3px;
+    margin: auto;
+ }
+ .c1{
+    text-align: center;
+ }
+ section p{
+    text-align: center;
+ }
+ .p1{
+    width: 800px;
+    margin-left: 400px;
+ }
+ section h4{
+    margin-left: 300px;
+ }
+ section img{
+    width: 300px;
+    margin-left: 200px;
+ }
+ section aside{
+    width: 300px;
+    /* border: 2px solid; */
+    margin-top: -200px;
+    margin-left: 600px;
+ }
+ .art p{
+    text-align: center;
+    font-size: 18px;
+ }
+ .li1{
+    letter-spacing: 4px;
+    font-size: 18px;
+ }
+ .li2{
+    background-color: #333;
+    width: 600px;
+    height: 30px;
+    color: white;
+    text-align: center;
+ }
+ main{
+   background-image: url("https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSWja_r3YsA0S6jMnAwb5Tnrcv5_ORLSWvpipQGeiibOi78TUxx");
+   /* width: 1000px; */
+   height: 500px;
+   background-repeat: no-repeat;
+   background-size: cover;
+ }
+ main div{
+   background-color: #333;
+   height: 60px;
+   color: white;
+ }
+ 
+ 
+ .demo li{
+   height: 20px;
+   font-size: 18px;
+   list-style-type: none;
+   
+ }
+ .m1{
+   margin-top:20px;
+   padding: 5px;
+   /* background-color: #333;
+   height: 50px; */
+ }
+ .m2{
+   margin-left: 450px;
+   margin-top: -20px;
+   
+ }
+ .m3{
+   margin-left: 800px;
+   margin-top: -20px;
+ }
+ .m4{
+   margin-left: 1250px;
+   margin-top: -20px;
+ }
+ main h2{
+   color: white;
+   font-size:26px;
+   letter-spacing: 5px;
+   text-align: center;
+   padding: 300px;
+ }
+ .section1 h2{
+   text-align: center;
+ }
+ img{
+   width: 200px;
+ }
+ figure{
+   margin-left: 300px;
+ }
+ button{
+   margin-left: 600px;
+   border: none;
+   height: 40px;
+   width: 150px;
+ }
+ .btn1:hover{
+   background-color: #333;
+ }
+ .photo{
+   background-image: url("https://tse4.mm.bing.net/th/id/OIP.5D0BzYL0tqats0NXILLAKAHaE8?pid=Api&P=0&h=180");
+   height: 600px;
+   background-repeat: no-repeat; 
+   background-size: cover;
+}
+.head{
+   text-align: center;
+   font-size: 20px;
+}
+.para{
+   text-align: center;
+}
+
+.form1 {
+   margin-left: 300px;
+   list-style-type: none;
+   margin-top: -100px;
+   font-size: 18px;
+}
+input{
+   height: 30px;
+   width: 300px;
+}
+
+
+.btn4{
+   background-color: black;
+   color: white;
+}
